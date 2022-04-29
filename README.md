@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kevin-Kipkoech
 - 👀 I’m interested in we develpment, data analytics, and blockchain development.
-- 🌱 I’m currently learning python, AI, ML, SOlidity, and web3.js
+- 🌱 I’m currently learning python, AI, ML, Solidity, and web3.js
 
 
 <!---
